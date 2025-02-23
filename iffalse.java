@@ -9,8 +9,9 @@ public class iffalse {
         int a = in.nextInt();
         int b =5;
         int e = 0;
+        int c =0;
         if (a%2==0) {
-            System.out.print("Число четное");
+            
         }
         else {
             System.out.print("Число нечетное");
