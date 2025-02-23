@@ -8,8 +8,9 @@ public class iffalse {
         System.out.print("a=");
         int a = in.nextInt();
         int b =5;
+        int c =0;
         if (a%2==0) {
-            System.out.print("Число четное");
+            
         }
         else {
             System.out.print("Число нечетное");
