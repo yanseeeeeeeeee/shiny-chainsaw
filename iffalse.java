@@ -7,6 +7,7 @@ public class iffalse {
         Scanner in = new Scanner(System.in);
         System.out.print("a=");
         int a = in.nextInt();
+        int b =5;
         if (a%2==0) {
             System.out.print("Число четное");
         }
