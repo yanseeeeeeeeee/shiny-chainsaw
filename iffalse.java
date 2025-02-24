@@ -10,8 +10,9 @@ public class iffalse {
         int b =5;
         int e = 0;
         int c =0;
+        int f = c+b;
         if (a%2==0) {
-            
+            System.out.println("Hello");
         }
         else {
             System.out.print("Число нечетное");
